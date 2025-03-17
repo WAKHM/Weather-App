@@ -24,7 +24,7 @@ A simple **Weather App** that fetches real-time weather data using the **OpenWea
 ## 🚀 How to Run the App  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/WAKHM/weather-app.git
    cd weather-app
 
 2. **Install dependencies**
